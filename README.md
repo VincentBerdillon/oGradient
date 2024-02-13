@@ -1,11 +1,8 @@
-# Gradient : actions aux petits oignons
-
-> En repartant du support `gradient-vanilla`(support du jour du prof)
+# Gradient :
 
 ## Objectifs
 
-- améliorer les actions existantes
-- factoriser certains traitements
+Créer un sélecteur de couleur aléatoire divisé en deux zones, gauche et droite avec la possibilité de créer une couleur random uniquement oà gauche, à droite ou les deux. Inscrire la valeur hexa au dessus de chaque couleur. Compter le nombre de couleurs générées. Varier l'angle de présentation des couleurs.
 
 ## Instructions
 
